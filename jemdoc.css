@@ -8,7 +8,7 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: Roman, serif;
+	font-family: Times, serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
@@ -51,7 +51,7 @@ tt {
 }
 
 pre, tt {
-	font-size: 90%;
+	font-size: 100%;
 	font-family: monaco, monospace;
 }
 
