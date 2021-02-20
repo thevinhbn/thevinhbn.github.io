@@ -18,7 +18,7 @@ body {
 	/*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
 	/*font-family: "Computer Modern", sans-serif;*/
 	font-family: "Computer Modern", sans-serif;
-        src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
+        /*src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');*/
 	padding-bottom: 8px;
 	margin: 0;
 }
