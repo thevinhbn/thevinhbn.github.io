@@ -35,7 +35,8 @@ table#tlayout {
 
 body {
 	background: white;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+	/*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
+	font-family: "Computer Modern", sans-serif;
 	padding-bottom: 8px;
 	margin: 0;
 }
