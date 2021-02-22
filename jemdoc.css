@@ -1,6 +1,5 @@
 /* Default css file for jemdoc. */
 /*Vinh modified fonts to lmodern: https://github.com/dreampulse/computer-modern-web-font*/
-/*Vinh modified fonts to lmodern*/
 table#tlayout {
     border: none;
     border-collapse: separate;
@@ -9,11 +8,8 @@ table#tlayout {
 
 body {
 	background: white;
-	/*font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; */
-	/*font-family: "Computer Modern", sans-serif;*/
 	font-family: "Computer Modern Serif", sans-serif;
-        /*src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');*/
-	padding-bottom: 8px;
+        padding-bottom: 8px;
 	margin: 0;
 }
 
