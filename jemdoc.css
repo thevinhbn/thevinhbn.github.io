@@ -9,7 +9,8 @@ table#tlayout {
 body {
 	background: white;
 	/* font-family: "Computer Modern Serif", sans-serif;*/
-	font-family: Georgia, serif;
+	/*font-family: Georgia, serif;*/
+	font-family:Calibri;
         padding-bottom: 8px;
 	margin: 0;
 }
