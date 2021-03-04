@@ -10,10 +10,9 @@ body {
 	background: white;
 	/* font-family: "Computer Modern Serif", sans-serif;*/
 	/*font-family: Georgia, serif;*/
-	font-size:14pt;
-	/*font-family:"Time New Roman","serif";*/
-	font-family: Georgia, serif;
-        padding-bottom: 8px;
+	font-size:13pt;
+	font-family:"Time New Roman","serif";
+	padding-bottom: 8px;
 	margin: 0;
 }
 
