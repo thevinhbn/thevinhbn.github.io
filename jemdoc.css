@@ -10,7 +10,8 @@ body {
 	background: white;
 	/* font-family: "Computer Modern Serif", sans-serif;*/
 	/*font-family: Georgia, serif;*/
-	font-family:Calibri;
+	font-size:10.5pt;
+	font-family:"Calibri","sans-serif";
         padding-bottom: 8px;
 	margin: 0;
 }
