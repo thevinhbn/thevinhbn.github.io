@@ -49,8 +49,7 @@ body {
 }
 
 tt {
-    /*background: #ffffdd;*/
-      background: #ddb472;
+    background: #ffffdd;
 }
 
 pre, tt {
@@ -59,7 +58,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #224b8d;
+	color: #ddb472;/*#224b8d;*/
 	text-decoration: none;
 }
 
