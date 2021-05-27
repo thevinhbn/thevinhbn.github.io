@@ -59,7 +59,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #ADD8E6;/*#224b8d;*/
+	color: #224b8d;/*#224b8d;*/
 	text-decoration: none;
 }
 
@@ -68,11 +68,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #ADD8E6;/*#022b6d;*/
+	color: #224b8d;/*#022b6d;*/
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #ADD8E6;/*#527bbd;*/
+	color: #224b8d;/*#527bbd;*/
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -120,7 +120,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #ADD8E6;/*#527bbd;*/
+	color: #224b8d;/*#527bbd;*/
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -168,7 +168,7 @@ div#footer {
 }
 
 div#footer a {
-	color: #ADD8E6;/*#80a0b0;*/
+	color: #224b8d;/*#80a0b0;*/
 }
 
 div#footer-text {
@@ -242,7 +242,7 @@ div.codeblock, div.infoblock {
 
 div.blocktitle {
 	font-weight: bold;
-	color: #ADD8E6;/*#cd7b62;*/
+	color: #224b8d;/*#cd7b62;*/
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
@@ -277,14 +277,14 @@ div.codeblock > div.blockcontent {
 }
 
 span.pycommand {
-	color: #ADD8E6;/*#000070;*/
+	color: #224b8d;/*#000070;*/
 }
 
 span.statement {
-	color: #ADD8E6;/*#008800;*/
+	color: #224b8d;/*#008800;*/
 }
 span.builtin {
-	color: #ADD8E6;/*#000088;*/
+	color: #224b8d;/*#000088;*/
 }
 span.special {
 	color: #990000;
