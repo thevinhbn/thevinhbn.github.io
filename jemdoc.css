@@ -58,7 +58,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #002c8b;/#224b8d;/*#224b8d;*/
+	color: #002c8b;/*#224b8d;*/*#224b8d;*/
 	text-decoration: none;
 }
 
@@ -67,11 +67,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #00008B;/#224b8d;/*#022b6d;*/
+	color: #00008B;/*#224b8d;*/*#022b6d;*/
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #00008B;/#224b8d;/*#527bbd;*/
+	color: #00008B;/*#224b8d;*/*#527bbd;*/
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -191,7 +191,7 @@ dl {
 }
 
 dd {
-	color: #223b8d;/#222222;
+	color: #223b8d;/*#222222*/;
 }
 
 dd > *:first-child {
@@ -241,7 +241,7 @@ div.codeblock, div.infoblock {
 
 div.blocktitle {
 	font-weight: bold;
-	color: #223b8d;/#00008B;/#224b8d;/*#cd7b62;*/
+	color: #223b8d;/*#00008B;*/*#224b8d;*/*#cd7b62;*/
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
