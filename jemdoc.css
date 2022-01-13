@@ -16,7 +16,7 @@ body {
 }
 
 #layout-menu {
-	background: #cbdfdb;/#c6dcd8/;/#E2EDF5/;/*#f6f6f6;*/
+	background: #cbdfdb;
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
@@ -58,7 +58,7 @@ pre, tt {
 }
 
 a, a > tt {
-	color: #002c8b;/*#224b8d;*/*#224b8d;*/
+	color: #002c8b;
 	text-decoration: none;
 }
 
@@ -67,11 +67,11 @@ a:hover {
 }
 
 #layout-menu a.current:link, #layout-menu a.current:visited {
-	color: #00008B;/*#224b8d;*/*#022b6d;*/
+	color: #00008B;
 	border-bottom: 1px gray solid;
 }
 #layout-menu a:link, #layout-menu a:visited, #layout-menu a:hover {
-	color: #00008B;/*#224b8d;*/*#527bbd;*/
+	color: #00008B;
 	text-decoration: none;
 }
 #layout-menu a:hover {
@@ -119,7 +119,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #223b8d;/#224b8d;/*#527bbd;*/
+	color: #223b8d;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -163,11 +163,11 @@ div#footer {
 	border-top: 1px solid #c0c0c0;
 	padding-top: 0.1em;
 	margin-top: 4.0em;
-	color: #223b8d;/#c0c0c0;
+	color: #223b8d;
 }
 
 div#footer a {
-	color: #223b8d;/#224b8d;/*#80a0b0;*/
+	color: #223b8d;
 }
 
 div#footer-text {
@@ -191,7 +191,7 @@ dl {
 }
 
 dd {
-	color: #223b8d;/*#222222*/;
+	color: #223b8d;
 }
 
 dd > *:first-child {
@@ -241,7 +241,7 @@ div.codeblock, div.infoblock {
 
 div.blocktitle {
 	font-weight: bold;
-	color: #223b8d;/*#00008B;*/*#224b8d;*/*#cd7b62;*/
+	color: #223b8d;
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
@@ -276,26 +276,26 @@ div.codeblock > div.blockcontent {
 }
 
 span.pycommand {
-	color: #223b8d;/#00008B;/#224b8d;/*#000070;*/
+	color: #223b8d;
 }
 
 span.statement {
-	color: #223b8d;/#00008B;/#224b8d;/*#008800;*/
+	color: #223b8d;
 }
 span.builtin {
-	color: #223b8d;/#00008B;/#224b8d;/*#000088;*/
+	color: #223b8d;
 }
 span.special {
-	color: #223b8d;/#990000;
+	color: #223b8d;
 }
 span.operator {
-	color: #223b8d;/#880000;
+	color: #223b8d;
 }
 span.error {
 	color: #aa0000;
 }
 span.comment, span.comment > *, span.string, span.string > * {
-	color: #223b8d;/#606060;
+	color: #223b8d;
 }
 
 @media print {
