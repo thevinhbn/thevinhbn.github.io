@@ -119,7 +119,7 @@ strong {
 
 
 h1, h2, h3 {
-	color: #223b8d;
+	color: #00008B;
 	margin-top: 0.7em;
 	margin-bottom: 0.3em;
 	padding-bottom: 0.2em;
@@ -167,7 +167,7 @@ div#footer {
 }
 
 div#footer a {
-	color: #223b8d;
+	color: #00008B;
 }
 
 div#footer-text {
@@ -191,7 +191,7 @@ dl {
 }
 
 dd {
-	color: #223b8d;
+	color: #00008B;
 }
 
 dd > *:first-child {
@@ -241,7 +241,7 @@ div.codeblock, div.infoblock {
 
 div.blocktitle {
 	font-weight: bold;
-	color: #223b8d;
+	color: #00008B;
 	margin-top: 1.2em;
 	margin-bottom: 0.1em;
 }
@@ -276,26 +276,26 @@ div.codeblock > div.blockcontent {
 }
 
 span.pycommand {
-	color: #223b8d;
+	color: #00008B;
 }
 
 span.statement {
-	color: #223b8d;
+	color: #00008B;
 }
 span.builtin {
-	color: #223b8d;
+	color: #00008B;
 }
 span.special {
-	color: #223b8d;
+	color: #00008B;
 }
 span.operator {
-	color: #223b8d;
+	color: #00008B;
 }
 span.error {
-	color: #aa0000;
+	color: #00008B;
 }
 span.comment, span.comment > *, span.string, span.string > * {
-	color: #223b8d;
+	color: #00008B;
 }
 
 @media print {
