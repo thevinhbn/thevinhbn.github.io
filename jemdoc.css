@@ -7,7 +7,7 @@ table#tlayout {
 }
 
 body {
-	background: white;/*Ivory;white;*/
+	background: Ivory;/*Ivory;white;*/
 	font-family: "Computer Modern Serif";
 	/*font-family: Georgia, serif, sans-serif;*/
 	/*font-family: 'Sen', sans-serif;*/
@@ -16,7 +16,7 @@ body {
 }
 
 #layout-menu {
-	background: white;/*#cbdfdb;*/
+	background: #cbdfdb;/*#cbdfdb;*/
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
