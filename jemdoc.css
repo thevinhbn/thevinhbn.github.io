@@ -3,11 +3,11 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: white;/*white;*/
+    background: beige;/*white;*/
 }
 
 body {
-	background: Ivory;/*Ivory;white;*/
+	background: beige;/*Ivory;white;*/
 	font-family: "Computer Modern Serif";
 	/*font-family: Georgia, serif, sans-serif;*/
 	/*font-family: 'Sen', sans-serif;*/
@@ -38,7 +38,7 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
-    background: white;/*white;*/
+    background: beige;/*white;*/
     text-align: left;
     vertical-align: top;
 }
