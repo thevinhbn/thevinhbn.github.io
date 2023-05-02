@@ -3,7 +3,7 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: white;
+    background: beige;/*white;*/
 }
 
 body {
@@ -16,7 +16,7 @@ body {
 }
 
 #layout-menu {
-	background: #cbdfdb;
+	background: beige;/*#cbdfdb;*/
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
@@ -38,7 +38,7 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
-    background: white;
+    background: beige;/*white;*/
     text-align: left;
     vertical-align: top;
 }
@@ -49,7 +49,7 @@ body {
 }
 
 tt {
-    background: #ffffdd;
+    background: beige;/*#ffffdd;*/
 }
 
 pre, tt {
