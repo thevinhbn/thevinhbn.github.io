@@ -3,11 +3,11 @@
 table#tlayout {
     border: none;
     border-collapse: separate;
-    background: beige;/*white;*/
+    background: white;/*white;*/
 }
 
 body {
-	background: beige;/*Ivory;white;*/
+	background: white;/*Ivory;white;*/
 	font-family: "Computer Modern Serif";
 	/*font-family: Georgia, serif, sans-serif;*/
 	/*font-family: 'Sen', sans-serif;*/
@@ -16,7 +16,7 @@ body {
 }
 
 #layout-menu {
-	background: beige;/*#cbdfdb;*/
+	background: white;/*#cbdfdb;*/
 	border: 1px solid #dddddd;
 	padding-top: 0.5em;
 	padding-left: 8px;
@@ -38,7 +38,7 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
-    background: beige;/*white;*/
+    background: white;/*white;*/
     text-align: left;
     vertical-align: top;
 }
@@ -49,7 +49,7 @@ body {
 }
 
 tt {
-    background: beige;/*#ffffdd;*/
+    background: #ffffdd;/*#ffffdd;*/
 }
 
 pre, tt {
