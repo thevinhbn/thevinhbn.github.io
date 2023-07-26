@@ -8,8 +8,8 @@ table#tlayout {
 
 body {
 	background: beige;/*Ivory;white;*/
-	font-family: "Computer Modern Serif";
-	/*font-family: Georgia, serif, sans-serif;*/
+	/*font-family: "Computer Modern Serif";*/
+	font-family: Times New Roman, Times, sans-serif;
 	/*font-family: 'Sen', sans-serif;*/
 	padding-bottom: 8px;
 	margin: 0;
